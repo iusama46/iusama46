@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">🔭 Working as a Mobile Application Developer<br>👨🏽‍💻 Proficient in Cross-Platform & Native mobile applications development<br>🌱 Continuously advancing skills in mobile application development<br>⚡Fun Fact: Ctrl + C and Ctrl + V are my favorite dance moves on the keyboard!</p>
+<p align="left">🔭 Working as a Mobile Application and Web Developer<br>👨🏽‍💻 Proficient in Cross-Platform & Native mobile applications development<br>🌱 Continuously advancing skills in mobile application development<br>⚡Fun Fact: Ctrl + C and Ctrl + V are my favorite dance moves on the keyboard!</p>
 
 ###
 
