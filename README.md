@@ -1,112 +1,115 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+
+# Hi, I'm Usama 👋
+
+### Senior Software Engineer · Mobile & Web
+
+Building useful products with React Native, React, Next.js, and TypeScript.
+
+<a href="https://www.linkedin.com/in/iusama46/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square" alt="Connect on LinkedIn" />
+</a>
+<a href="mailto:iusama46@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=flat-square" alt="Email Usama" />
+</a>
+<a href="https://github.com/iusama46">
+  <img src="https://img.shields.io/badge/GitHub-iusama46-181717?style=flat-square&logo=github&logoColor=white" alt="Usama on GitHub" />
+</a>
+
 </div>
 
-###
+---
 
-<h1 align="center">Hi, I'm Usama 👋</h1>
+## About me
 
-###
+I'm a software engineer with 7+ years of experience building mobile and web applications, including 5+ years working with React Native and JavaScript. I take products from requirements and architecture through development, release, and production support.
 
-<p align="left">🔭 Working as a Mobile Application and Web Developer<br>👨🏽‍💻 Proficient in Cross-Platform & Native mobile applications development<br>🌱 Continuously advancing skills in mobile application development<br>⚡Fun Fact: Ctrl + C and Ctrl + V are my favorite dance moves on the keyboard!</p>
+- 📱 Develop cross-platform Android and iOS apps using **React Native, Expo, and Flutter**.
+- 🌐 Build web applications and business dashboards with **React, Next.js, and TypeScript**.
+- 🔌 Integrate native functionality using **Swift, Kotlin, and Java**.
+- 🧩 Work across **PropTech, FinTech, LogiTech, FoodTech, automotive technology, and enterprise SaaS**, including ERP and CRM systems.
+- ⚙️ Focus on reusable components, maintainable architecture, performance, and practical user experiences.
+- 🤝 Open to software engineering opportunities and project collaborations.
 
-###
+## Selected work
 
-<h3 align="left">How to reach me</h3>
+### 🏘️ Makyee · Real Estate Ecosystem
 
-###
+Built three separate mobile applications from scratch: **Makyee Business, Makyee Marketplace, and Makyee Agent**. Developed property search and filters, map-based discovery, nearby points of interest, property details, and in-app messaging. Rebuilt Business and Marketplace in React Native and TypeScript for V2 while maintaining the production V1 apps.
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/iusama46/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:iusama46@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+[Website](https://www.makyee.com/) · [App Store](https://apps.apple.com/ae/app/makyee/id6504030415) · [Google Play](https://play.google.com/store/apps/details?id=com.redspider.makyee)
 
-###
+### 🚚 Delivery & On-Demand Logistics
 
-<h3 align="left">🛠 Tools and Technologies</h3>
+Built consumer and rider applications from scratch as the **sole mobile app developer**, supporting food, grocery, and parcel delivery. Implemented live tracking, scheduled orders, multiple vehicle types, order management, notifications, and wallet flows.
 
-###
+### 🏢 Fleet Master · Enterprise Operations
 
-<h4 align="left">Mobile Application Development Technologies</h4>
+Led frontend development from requirements and architecture to deployment and production support. Built workflows for rider onboarding, compliance, assets, penalties, salaries, wallets, and transactions.
 
-###
+### 🎟️ Booking & Queue Management · Multi-Tenant SaaS
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" height="40" alt="xamarin logo"  />
-</div>
+Built a platform for managing companies, departments, services, counters, bookings, and queues, with kiosk and display interfaces, voice announcements, reporting, and token lifecycle management.
 
-###
+## Tools & technologies
 
-<h4 align="left">Programming Languages</h4>
+### Mobile & web
 
-###
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,flutter,dart,tailwind&theme=dark" alt="React, Next.js, TypeScript, JavaScript, Flutter, Dart, and Tailwind CSS" />
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-</div>
+**React Native · Expo · React · Next.js · Flutter · React Navigation · Reanimated**
 
-###
+### Native development
 
-<h4 align="left">Databases</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=swift,kotlin,java,androidstudio&theme=dark" alt="Swift, Kotlin, Java, and Android Studio" />
+</p>
 
-###
+**Swift / SwiftUI · Kotlin / Java · Native modules · Xcode · Android Studio**
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-</div>
+### State, APIs & data
 
-###
+<p>
+  <img src="https://skillicons.dev/icons?i=redux,firebase,mysql,postman&theme=dark" alt="Redux, Firebase, MySQL, and Postman" />
+</p>
 
-<h4 align="left">Development and Infrastructure Technologies</h4>
+**Redux Toolkit · RTK Query · Zustand · REST APIs · Firebase · MySQL · MMKV**
 
-###
+### Development & delivery
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-plain-wordmark.svg" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" height="40" alt="bitbucket logo"  />
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,vscode,figma&theme=dark" alt="Git, GitHub, GitLab, Bitbucket, Visual Studio Code, and Figma" />
+</p>
 
-###
+**Git · Jira · EAS Build / Update · Fastlane · Gradle · CocoaPods · App Store & Google Play releases**
 
-<h3 align="left">🔥   My Stats :</h3>
+## What I work on
 
-###
+- **Real-time experiences:** live location, maps, delivery tracking, chat, and audio/video calling.
+- **Product integrations:** authentication, OTP, social login, payment gateways, and push notifications.
+- **Reliable mobile apps:** offline support, crash monitoring, performance tuning, and OTA updates.
+- **Business systems:** onboarding, approvals, role-based workflows, wallets, and operational dashboards.
+- **AI-assisted development:** clear specifications, focused implementation tasks, and code review.
+
+<details>
+<summary><b>🔥 GitHub activity</b></summary>
+
+<br />
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=iusama46&locale=en&mode=daily&theme=github-dark-blue&hide_border=true&border_radius=8" width="495" alt="Usama's GitHub contribution streak" />
+</p>
+
+</details>
+
+---
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=iusama46&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
-###
+**Have a product to build or a team to grow? Let's talk.**
+
+[LinkedIn](https://www.linkedin.com/in/iusama46/) · [Email](mailto:iusama46@gmail.com)
+
+</div>
