@@ -2,9 +2,11 @@
 
 # Hi, I'm Usama 👋
 
-### Senior Software Engineer · Mobile & Web
+### Senior Software Engineer · Mobile · Web · Backend
 
-Building useful products with React Native, React, Next.js, and TypeScript.
+From mobile experiences to web platforms and the APIs behind them.
+
+**React Native · React · Next.js · Nuxt.js · Node.js · TypeScript**
 
 <a href="https://www.linkedin.com/in/iusama46/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square" alt="Connect on LinkedIn" />
@@ -25,7 +27,8 @@ Building useful products with React Native, React, Next.js, and TypeScript.
 I'm a software engineer with 7+ years of experience building mobile and web applications, including 5+ years working with React Native and JavaScript. I take products from requirements and architecture through development, release, and production support.
 
 - 📱 Develop cross-platform Android and iOS apps using **React Native, Expo, and Flutter**.
-- 🌐 Build web applications and business dashboards with **React, Next.js, and TypeScript**.
+- 🌐 Build web applications and business dashboards with **React, Next.js, Nuxt.js, and TypeScript**.
+- 🛠️ Develop backend services and REST APIs with **Node.js**, connecting applications to data and business workflows.
 - 🔌 Integrate native functionality using **Swift, Kotlin, and Java**.
 - 🧩 Work across **PropTech, FinTech, LogiTech, FoodTech, automotive technology, and enterprise SaaS**, including ERP and CRM systems.
 - ⚙️ Focus on reusable components, maintainable architecture, performance, and practical user experiences.
@@ -53,13 +56,29 @@ Built a platform for managing companies, departments, services, counters, bookin
 
 ## Tools & technologies
 
-### Mobile & web
+### Cross-platform mobile
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,flutter,dart,tailwind&theme=dark" alt="React, Next.js, TypeScript, JavaScript, Flutter, Dart, and Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,flutter,dart&theme=dark" alt="React Native, TypeScript, Flutter, and Dart" />
 </p>
 
-**React Native · Expo · React · Next.js · Flutter · React Navigation · Reanimated**
+**React Native · Expo · Flutter · React Navigation · Reanimated · Notifee**
+
+### Web frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nuxtjs,typescript,javascript,tailwind&theme=dark" alt="React, Next.js, Nuxt.js, TypeScript, JavaScript, and Tailwind CSS" />
+</p>
+
+**React · Next.js · Nuxt.js · TypeScript · JavaScript · Tailwind CSS · shadcn/ui**
+
+### Backend & APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,firebase,postman&theme=dark" alt="Node.js, Firebase, and Postman" />
+</p>
+
+**Node.js · REST APIs · Firebase Cloud Functions · Authentication · API integration · Postman**
 
 ### Native development
 
@@ -69,13 +88,13 @@ Built a platform for managing companies, departments, services, counters, bookin
 
 **Swift / SwiftUI · Kotlin / Java · Native modules · Xcode · Android Studio**
 
-### State, APIs & data
+### State & data
 
 <p>
-  <img src="https://skillicons.dev/icons?i=redux,firebase,mysql,postman&theme=dark" alt="Redux, Firebase, MySQL, and Postman" />
+  <img src="https://skillicons.dev/icons?i=redux,firebase,mysql&theme=dark" alt="Redux, Firebase, and MySQL" />
 </p>
 
-**Redux Toolkit · RTK Query · Zustand · REST APIs · Firebase · MySQL · MMKV**
+**Redux Toolkit · RTK Query · Zustand · Firebase · MySQL · MMKV**
 
 ### Development & delivery
 
